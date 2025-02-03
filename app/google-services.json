@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23655191940",
+    "project_id": "bunny-56398",
+    "storage_bucket": "bunny-56398.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23655191940:android:ab9a446ac10e6a0c0339d1",
+        "android_client_info": {
+          "package_name": "com.bunny.bxbunny"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8TunThdUid3AaGi_jiEmFM9DY4FeZgoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
